@@ -1,5 +1,4 @@
 # Ford GoBike System Data Exploration
-## by Amro Samaha
 
 
 ## Dataset
